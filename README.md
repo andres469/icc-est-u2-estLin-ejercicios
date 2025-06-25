@@ -32,8 +32,8 @@ Este proyecto utiliza una verificación automática que valida que has ingresado
 2. Rellena tus datos:
 
 ```
-STUDENT_NAME=Tu Nombre Completo
-STUDENT_EMAIL=tu.correo@institucion.edu.ec
+STUDENT_NAME=Juan Andres Tenesaca Criollo
+STUDENT_EMAIL=jtenesacac4@est.ups.edu.ec
 ```
 
 
